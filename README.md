@@ -1,4 +1,4 @@
-### Hi there 👋
+![me](https://github.com/NyannCat/NyannCat/blob/main/lagtrain.gif)
 
 <!--
 **NyannCat/NyannCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
